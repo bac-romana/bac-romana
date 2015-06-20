@@ -26,16 +26,26 @@
     + acțiuni plauzibile
 + nuvelă psihologică
     + conflict interior (Ghiță), determinat de conflictul exterior (Ghiță vs. Lică)
+
 ##### Titlu
 + antifrază, *Moara cu noroc* nu aduce noroc
 + moara este transformată în han
 + moara = *topos*
 
-##### Temă: consecințele aduse de arghirofilie
-##### Viziune narativă: persoana a 3a, obiectivă, naratorul > personajele ⇒ *«din spate»*
-##### Caracter circular: citatele din bătrână = prolog + epilog
+##### Temă
++ consecințele aduse de arghirofilie
+
+##### Viziune narativă
++ persoana a 3a
++ obiectivă
++ naratorul > personajele ⇒ *«din spate»*
+
+##### Caracter circular:
++ citatele din bătrână = prolog + epilog
+
 > „Omul să fie mulțumit cu sărăcia sa…
 
 > „Așa le-a fost data…
+
 ##### Compoziția
 ##### Caracterizarea personajelor
