@@ -14,7 +14,7 @@
 
 ### Epoca Marilor Clasici AKA «Junimea»
 
-1. «Junimea» / Titu Maiorescu
+1. «Junimea» / Titu Maiorescu: [In contra direcției de astăzi în cultura română](https://ro.wikisource.org/wiki/%C3%8En_contra_direc%C8%9Biei_de_ast%C4%83zi_%C3%AEn_cultura_rom%C3%A2n%C4%83)
 
 1. Basmul cult / Ion Creangă: [Povestea lui Harap-Alb](http://ro.wikisource.org/qiki/Povestea_lui_Harap-Alb) (19,098 wors / 1h 4 mins read)
 
