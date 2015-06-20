@@ -2,7 +2,7 @@
 
 ## rolul-cratimei
 
-1. elidează un sunet
+1. elimină un sunet
 
 1. unește fonetic și desparte morfologic cuvântul …, de cuvântul …
 
