@@ -34,9 +34,11 @@
   + Spancioc
   + Stroici
 + boierul Moțoc
+
 ##### Compoziția
 ###### Expozițiunea
 Venirea lui **AL** în Țara Moldovei, pentru a-l înlocui pe Tomșa Vodă.
+
 ###### Intrigă
 #######Capitolul I
 O solie a boierilor îl întâmpină pe **AL**, care-i comunică ostilitatea țării față de un nou domn.
