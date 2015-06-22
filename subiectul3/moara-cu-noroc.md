@@ -22,7 +22,7 @@
 
 ##### Moara cu noroc este
 + nuvelă realistă
-    + indici recognoscibili de timp, de spațiului
+    + indici recognoscibili de timp, de spațiu
     + acțiuni plauzibile
 + nuvelă psihologică
     + conflict interior (Ghiță), determinat de conflictul exterior (Ghiță vs. Lică)
@@ -40,6 +40,7 @@
 + obiectivă
 + naratorul > personajele ⇒ *«din spate»*
 
+##### Personaje
 ##### Caracter circular:
 + citatele din bătrână = prolog + epilog
 
